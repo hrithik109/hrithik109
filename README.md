@@ -16,13 +16,13 @@
     <a href="https://portfolio-website.hrithiksahu23.workers.dev/">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME">
+    <a href="https://github.com/hrithik109">
       <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0EA5E9" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=hrithik109&style=flat-square&color=0EA5E9" alt="Profile views" />
   </p>
 </div>
 
@@ -111,12 +111,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hrithik109&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik109&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </div>
 
 <div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="95%" src="https://streak-stats.demolab.com?user=hrithik109&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 ---
@@ -127,7 +127,7 @@
   <a href="https://portfolio-website.hrithiksahu23.workers.dev/">
     <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/hrithik109">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
